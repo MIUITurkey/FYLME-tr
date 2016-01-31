@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">Total: %d contacts</item>
-        <item quantity="one">Total: 1 contact</item>
+        <item quantity="other">Toplam: %d kişi</item>
+        <item quantity="one">Toplam: 1 kişi</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d groups</item>
-        <item quantity="one">1 group</item>
+        <item quantity="other">%0$d gru</item>
+        <item quantity="one">1 grup</item>
     </plurals>
     <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d contacts from %2$s</item>
