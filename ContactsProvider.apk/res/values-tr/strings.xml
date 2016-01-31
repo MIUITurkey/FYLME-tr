@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="meizu_custom_service">Müşteri hizmetleri asistanı</string>
+    <string name="meizu_phone">4007883333</string>
+    <string name="meizu_email">MZ_KF@meizu.com</string>
+    <string name="meizu_company">Ltd Meizu teknolojisi (Çin)</string>
+    <string name="meizu_address">Zhuhai yüksek teknoloji bölgesi, Teknoloji inovasyon sahili, Tangjiawan Meizu teknoloji binası</string>
+    <string name="sharedUserLabel">Benzer kişiler</string>
+    <string name="app_label">Kişileri deposu</string>
+    <string name="provider_label">Kişiler</string>
+    <string name="upgrade_msg">Kişilerinizi veri tabanına yükselt</string>
+    <string name="default_directory">Kişiler</string>
+    <string name="local_invisible_directory">Diğer</string>
+    <string name="voicemail_from_column">Sesli mesaj</string>
+    <string name="debug_dump_title">Kişilerinizi veri tabanına kopyala</string>
+    <string name="debug_dump_database_message">Öneri: 1) Tüm kişilerinizi dahili depolama alanına kopyalayın 2) E-postanıza kopyaladıktan sonra depolamadan silmeyi unutmayın</string>
+    <string name="debug_dump_delete_button">Şimdi sil</string>
+    <string name="debug_dump_start_button">Başlat</string>
+    <string name="debug_dump_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
+    <string name="debug_dump_email_subject">Ver tabanına bağlı kişiler</string>
+    <string name="debug_dump_email_body">Kişi bilgilerim ile rehberim veri tabanı ekli</string>
+    <string name="ownerPackage">com.android.dialer</string>
+    <string name="read_write_all_voicemail_description">Cihazınızda tüm sesli aramalar için izin verin</string>
+    <string name="read_write_all_voicemail_label">Tüm sesli mesajlarınıza erişin</string>
+</resources>

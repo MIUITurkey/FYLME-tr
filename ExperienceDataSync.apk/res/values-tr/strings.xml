@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permlab_readusagestats">Kullanım istatistikleri verilerini oku</string>
+    <string name="permdesc_readusagestats">Uygulamaya kullanım istatistikleri verilerini okumaya izni verir</string>
+    <string name="permlab_writeusagestats">Kullanım istatistikleri verilerini yaz</string>
+    <string name="permdesc_writeusagestats">Uygulamaya kullanım istatistikleri verilerini yazmak için izin verir</string>
+</resources>

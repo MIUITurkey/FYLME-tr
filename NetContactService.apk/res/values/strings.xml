@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Net kişiler servisi</string>
+    <string name="default_search_city">Ara</string>
+    <string name="net_contact_direcoty_type">Net kişi</string>
+</resources>

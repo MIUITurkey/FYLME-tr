@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alwaysUse">Bu işlem için varsayılan olarak kullan</string>
+    <string name="app_description">Sistem duvar kağıdı</string>
+    <string name="app_name">Sistem duvar kağıdı</string>
+    <string name="configure_wallpaper">Ayarlar</string>
+    <string name="date_time_set">Ayarla</string>
+    <string name="delete_wallpaper">Duvar kağıdını sil</string>
+    <string name="imageview_description">Küçük resimler</string>
+    <string name="live_wallpaper_loading">Canlı duvar kağıdı yükleniyor</string>
+    <string name="live_wallpaper_picker_label">Canlı duvar kağıdı</string>
+    <string name="mc_action_settings">Ayarlar</string>
+    <string name="mc_allow">İzin ver</string>
+    <string name="mc_alway_allow">Her zaman izi ver</string>
+    <string name="mc_app_name">MeizuCommon</string>
+    <string name="mc_cancel">İptal et</string>
+    <string name="mc_change_num">Güncelle</string>
+    <string name="mc_custom_date_time_gregorian">Miladi</string>
+    <string name="mc_custom_date_time_lunar">Ay takvimi</string>
+    <string name="mc_date_time_day">G</string>
+    <string name="mc_date_time_hour">S</string>
+    <string name="mc_date_time_min">D</string>
+    <string name="mc_date_time_month">A</string>
+    <string name="mc_date_time_sec">S</string>
+    <string name="mc_date_time_set">Ayarla</string>
+    <string name="mc_date_time_year">Y</string>
+    <string name="mc_description_target_answer">Yanıtla</string>
+    <string name="mc_description_target_decline">Reddet</string>
+    <string name="mc_disable">Devre dışı bırak</string>
+    <string name="mc_every_day">Her gün</string>
+    <string name="mc_friday">Cum</string>
+    <string name="mc_go_Refreshing">Yenilemek için bırak</string>
+    <string name="mc_hello_world">Merhaba</string>
+    <string name="mc_hour">S</string>
+    <string name="mc_is_Refreshing">Yenileniyor</string>
+    <string name="mc_minute">D</string>
+    <string name="mc_monday">Pts</string>
+    <string name="mc_never">Bir kere</string>
+    <string name="mc_pattern_a_hour_before">1 saat önce</string>
+    <string name="mc_pattern_a_minute_before">1 dakika önce</string>
+    <string name="mc_pattern_hour_before">, saat önce</string>
+    <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
+    <string name="mc_pattern_hour_minute_12" formatted="false">%p %I:%M</string>
+    <string name="mc_pattern_minute_before">, dakika önce</string>
+    <string name="mc_pattern_month_day" formatted="false">%-m/%-e</string>
+    <string name="mc_pattern_month_day_hour_minute" formatted="false">%-m/%-e %H:%M</string>
+    <string name="mc_pattern_month_day_hour_minute_12" formatted="false">%-m/%-e %p %I:%M</string>
+    <string name="mc_pattern_today">Bugün</string>
+    <string name="mc_pattern_week">%a</string>
+    <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
+    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %p %I:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute" formatted="false">%a %-m/%-e %H:%M</string>
+    <string name="mc_pattern_week_month_day_hour_minute_12" formatted="false">%a %-m/%-e %p %I:%M</string>
+    <string name="mc_pattern_year_month" formatted="false">%Y/%-m</string>
+    <string name="mc_pattern_year_month_day" formatted="false">%Y/%-m/%-e</string>
+    <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%Y/%-m/%-e %H:%M</string>
+    <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%Y/%-m/%-e %p %I:%M</string>
+    <string name="mc_pattern_yesterday">Dün</string>
+    <string name="mc_permission_apply">İzin talebi</string>
+    <string name="mc_permission_message_content">%1$s talep %2$s dahil %3$d izin</string>
+    <string name="mc_pm_allow_check_app">İzin ver</string>
+    <string name="mc_pm_allow_dialog_push">Bildirimlere İzin Ver</string>
+    <string name="mc_pm_bluetooth">Bluetooth</string>
+    <string name="mc_pm_call">Arama yap</string>
+    <string name="mc_pm_call_log">Arama özetini oku</string>
+    <string name="mc_pm_camera">Kamera (Fotoğraf veya video)</string>
+    <string name="mc_pm_close">Kapat</string>
+    <string name="mc_pm_contacts">Kişileri oku</string>
+    <string name="mc_pm_dialog_push">Açılır bildirim</string>
+    <string name="mc_pm_dlg_cancel">İptal et</string>
+    <string name="mc_pm_dlg_ok">Tamam</string>
+    <string name="mc_pm_location">Konumlandır</string>
+    <string name="mc_pm_network">Mobil Veriler</string>
+    <string name="mc_pm_nfc">Yab</string>
+    <string name="mc_pm_not_allow_check_app">Yasakla</string>
+    <string name="mc_pm_not_allow_dialog_push">Devre dışı bırak</string>
+    <string name="mc_pm_online_intenert">İnternet</string>
+    <string name="mc_pm_open">Aç</string>
+    <string name="mc_pm_r_mms">Multimedya mesajlarını oku</string>
+    <string name="mc_pm_r_sms">Mesajları oku</string>
+    <string name="mc_pm_recordaudio_local">Yerel veya arama kaydı</string>
+    <string name="mc_pm_recordaudio_phone">Arama kaydı</string>
+    <string name="mc_pm_s_mms">Multimedya mesajı gönder</string>
+    <string name="mc_pm_s_sms">Mesaj gönder</string>
+    <string name="mc_pm_set_bluetooth_on">"Bluetooth'u aç"</string>
+    <string name="mc_pm_set_gprs_on">Mobil datayı aç</string>
+    <string name="mc_pm_set_wifi_on">Wifi aç</string>
+    <string name="mc_pm_wlan">Wifi</string>
+    <string name="mc_pull_refresh">Yenilemek için aşağı çek</string>
+    <string name="mc_reject">Reddet</string>
+    <string name="mc_saturday">Cts</string>
+    <string name="mc_search">Ara</string>
+    <string name="mc_second">S</string>
+    <string name="mc_selectionbutton_all">Tümü</string>
+    <string name="mc_sunday">Pzr</string>
+    <string name="mc_thursday">Perş</string>
+    <string name="mc_time_picker_leap">Takvime eklenen</string>
+    <string name="mc_tuesday">Sal</string>
+    <string name="mc_wednesday">Çarş</string>
+    <string name="mc_weekend">Hafta sonu</string>
+    <string name="mc_working_day">İş Günleri</string>
+    <string name="mc_yes">Tamam</string>
+    <string name="more_item_label">Daha fazla</string>
+    <string name="mz_date_time_day">G</string>
+    <string name="mz_date_time_hour">S</string>
+    <string name="mz_date_time_min">D</string>
+    <string name="mz_date_time_month">A</string>
+    <string name="mz_date_time_sec">S</string>
+    <string name="mz_date_time_year">Y</string>
+    <string name="mz_recipient_edit_imeActionLabel">Tamam</string>
+    <string name="mz_recipient_global_search">Global kişileri arayınız</string>
+    <string name="mz_recipient_global_searching">Global kişiler aranıyor</string>
+    <string name="mz_recipient_hint_str">Alıcı:</string>
+    <string name="mz_recipient_sns_search">Weibo kişileri için arayınız</string>
+    <string name="mz_recipient_sns_searching">Weibo kişileri için aranıyor</string>
+    <string name="mz_recipient_sns_update">Weibo kişileri güncelleyiniz</string>
+    <string name="mz_recipient_sns_updating">Weibo kişileri güncelleniyor</string>
+    <string name="mz_recipient_title">Alıcı</string>
+    <string name="mz_recipient_title_email">E-posta</string>
+    <string name="mz_recipient_title_message">Mesaj</string>
+    <string name="mz_recipient_total_str">%d toplam kişi</string>
+    <string name="no_network_connection_toast">Ağ bağlantısı bulunamadı</string>
+    <string name="set_wallpaper">Ayarlar</string>
+    <string name="set_wallpaper_home">Ana ekran duvar kağıdı olarak ayarla</string>
+    <string name="set_wallpaper_lock">Kilit ekranı duvar kağıdı olarak ayarla</string>
+    <string name="set_wallpaper_lock_home">İkisini de ayarla</string>
+    <string name="tv_tips">Canlı duvar kağıdı güç kullanımını arttırır</string>
+</resources>

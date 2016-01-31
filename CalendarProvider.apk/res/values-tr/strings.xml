@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calendar_storage">Takvim deposu</string>
+    <string name="upgrade_msg">Takvim veri tabanına yükselt</string>
+    <string name="calendar_default_name">Varsayılan takvim</string>
+    <string name="calendar_info">Takvim bilgisi</string>
+    <string name="calendar_info_error">Hata</string>
+    <string name="calendar_info_no_calendars">Takvim yok</string>
+    <string name="calendar_info_events">Etkinlikler: %1$d</string>
+    <string name="calendar_info_events_dirty">Etkinlikler: %1$d. Kaydedilmeyen etkinlikler: %2$d</string>
+    <string name="provider_label">Takvim</string>
+    <string name="debug_tool_delete_button">Şimdi sil</string>
+    <string name="debug_tool_start_button">Başlat</string>
+    <string name="debug_tool_message">Öneri: 1) Tüm takviminizi dahili depolama alanına kopyalayın 2) E-postanıza kopyaladıktan sonra depolamadan silmeyi unutmayın</string>
+    <string name="debug_tool_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
+    <string name="debug_tool_email_subject">Takvim ayıklama aracı takılı</string>
+    <string name="debug_tool_email_body">Tüm randevuları ve kişisel bilgiler ile takvim veritabanıma ekli</string>
+    <string name="ownerPackage">com.android.calendar</string>
+</resources>

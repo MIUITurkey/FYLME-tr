@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cyanogenmod_system_label">CyanogenMod sistemi</string>
+    <string name="permlab_publishCustomTile">Hızlı ayarlar paneli içinde özel bir kare oluştur</string>
+    <string name="permdesc_publishCustomTile">Uygulamalara hızlı ayarlar karesi oluşturma izni verir</string>
+    <string name="permlab_modifyNetworkSettings">change system network settings</string>
+    <string name="permdesc_modifyNetworkSettings">Allows an app to make changes to a restricted set of system network settings</string>
+    <string name="permlab_modifySoundSettings">change system sound settings</string>
+    <string name="permdesc_modifySoundSettings">Allows an app to make changes to a restricted set of system sound settings</string>
+    <string name="permlab_bindCustomTileListenerService">özel bir kare takip hizmetine bağla</string>
+    <string name="permdesc_bindCustomTileListenerService">Uygulamaya özel bir kare takip hizmetinin üst düzey arayüzünü bağlamasına izin verir</string>
+    <string name="permlab_readMSPhoneState">view the phone state and data connection with support to multiple SIMs</string>
+    <string name="permdesc_readMSPhoneState">Allows an app to view the phone state and data connection with support to multiple SIMs</string>
+    <string name="permlab_modifyMSPhoneState">modify the phone state and data connection with support to multiple SIMs</string>
+    <string name="permdesc_modifyMSPhoneState">Allows an app to modify the phone state and data connection with support to multiple SIMs</string>
+    <string name="custom_tile_listener_binding_label">Özel kare takipçisi</string>
+    <string name="profileNameDefault">Varsayılan</string>
+    <string name="profileNameWork">İş</string>
+    <string name="profileNameHome">Ev</string>
+    <string name="profileNameSilent">Sessiz</string>
+    <string name="profileNameNight">Gece</string>
+    <string name="profileNameAutomobile">Otomobil</string>
+    <string name="profileGroupPhone">Telefon</string>
+    <string name="profileGroupCalendar">Takvim</string>
+    <string name="profileGroupGmail">Gmail</string>
+    <string name="profileGroupEmail">E-posta</string>
+    <string name="profileGroupSMS">Mesaj</string>
+    <string name="wildcardProfile">Diğer</string>
+</resources>
