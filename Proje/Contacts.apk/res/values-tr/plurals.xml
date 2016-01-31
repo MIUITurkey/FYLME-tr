@@ -5,27 +5,27 @@
         <item quantity="one">Toplam: 1 kişi</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d gru</item>
+        <item quantity="other">%0$d grup</item>
         <item quantity="one">1 grup</item>
     </plurals>
     <plurals name="num_contacts_in_group">
-        <item quantity="other">%1$d contacts from %2$s</item>
-        <item quantity="one">%1$d contact(s) from %2$s</item>
+        <item quantity="other">%2$s kişiden %1$d</item>
+        <item quantity="one">%2$s kişiden %1$d</item>
     </plurals>
     <plurals name="group_list_num_contacts_in_group">
-        <item quantity="other">%1$d contact</item>
-        <item quantity="one">%1$d contact</item>
+        <item quantity="other">%1$d kişi</item>
+        <item quantity="one">%1$d kişi</item>
     </plurals>
     <plurals name="group_selection_list_num_contacts_in_group">
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Voicemails</item>
-        <item quantity="one">Voicemail</item>
+        <item quantity="other">%1$d sesli mesaj</item>
+        <item quantity="one">Sesli mesaj</item>
     </plurals>
     <plurals name="searchFoundGlobalContacts">
-        <item quantity="other">%d global contacts</item>
-        <item quantity="one">1 global contacts</item>
+        <item quantity="other">%d global kişi</item>
+        <item quantity="one">1 global kişi</item>
     </plurals>
 </resources>
